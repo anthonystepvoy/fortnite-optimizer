@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fortnite Optimization"
+  short_description: "Audita y optimiza Fortnite en Windows"
+  default_prompt: "Use $fortnite-optimization to audit this Windows PC, identify Fortnite FPS drops, stutter, latency, and ping causes, and apply evidence-backed optimizations safely."
